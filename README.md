@@ -1,1 +1,0 @@
-# intra_abdominal_volume_model
